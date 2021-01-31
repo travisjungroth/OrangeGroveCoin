@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+title: Hello OrangeGroveCoin!
+description: Disrupting the trillion dollar citrus grove servicing industry with blockchain!
+show_downloads: false
+github:
+  is_project_page: false
+markdown: GFM
